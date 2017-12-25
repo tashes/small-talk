@@ -1,5 +1,5 @@
 {
-  "name": "small-talk",
+  "name": "@tamatashwin/small-talk",
   "version": "1.0.0",
   "description": "Abstracts out emit/send and on to a nice conversation between two whatevers.",
   "main": "index.js",

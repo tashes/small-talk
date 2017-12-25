@@ -2,7 +2,7 @@
 Process should talk to each other more.
 
 ## Installation
-`npm install small-talk`
+`npm install @tamatashwin/small-talk`
 
 ## Usage
 First, call the module to get an instance of small talk.
