@@ -82,7 +82,7 @@ The start function begins the 'conversation'. It must call `.done()` for the con
 | * data* | Any type*| This parameter should contain the data that is first sent over as a reply to the first message received from the parent. If a function is passed through, it is first called and the returned object is sent. |
 
 **Return**:
-[Talk Instance][talk]
+[Talk Instance]
 
 ### *smallTalk*.respond()
 **Description**:
@@ -101,9 +101,9 @@ The respond function is the 'conversing' partner of the start function. Call it 
 
 **Return**:
 
-[Talk Instance] [talk]
+[Talk Instance]
 
-[talk]: ### new Talk()
+### new Talk()
 **Description**:
 
 The `smallTalk.start()` and `smallTalk.respond()` functions both return an instance of Talk();
