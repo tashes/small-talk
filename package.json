@@ -1,6 +1,6 @@
 {
   "name": "@tamatashwin/small-talk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Abstracts out emit/send and on to a nice conversation between two whatevers.",
   "main": "index.js",
   "scripts": {
