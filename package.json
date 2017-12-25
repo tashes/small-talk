@@ -18,5 +18,13 @@
   "devDependencies": {
     "jest": "^22.0.4"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tashes/small-talk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tashes/small-talk/issues"
+  },
+  "homepage": "https://github.com/tashes/small-talk#readme"
 }
