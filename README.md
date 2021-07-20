@@ -7,7 +7,7 @@ Process should talk to each other more.
 ## Usage
 First, call the module to get an instance of small talk.
 ```javascript
-var smallTalk = require('require('@tamatashwin/small-talk')')();
+var smallTalk = require('@tamatashwin/small-talk')();
 ```
 
 There are:
